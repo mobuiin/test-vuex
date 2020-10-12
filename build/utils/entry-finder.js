@@ -51,7 +51,7 @@ exports.findPages = function findPages() {
       // 如果没有渠道入口文件，就用主文件
       entryJs = mainJs;
     }
-
+    console.log(`${pagesFolder}/${path}`)
     pages[chunkName] = {
       // page 的入口
       entry: entryJs,
