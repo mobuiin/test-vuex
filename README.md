@@ -1,5 +1,7 @@
 # test-vuex
 
+There is MPA project.
+
 ## Project setup
 ```
 yarn install
@@ -17,3 +19,4 @@ yarn build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
