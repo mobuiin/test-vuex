@@ -1,8 +1,8 @@
 <template>
   <div>
     <ul>
-      <li @click="open('vuex')">test vuex</li>
-      <li @click="open('one')">第一套面试题 todolist 与 穿梭框</li>
+      <li @click="open('vuex.html')">test vuex</li>
+      <li @click="open('one.html')">第一套面试题 todolist 与 穿梭框</li>
     </ul>
   </div>
 </template>

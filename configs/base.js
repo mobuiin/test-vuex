@@ -1,4 +1,5 @@
-const packageName = "test-vue";
-const Configs = {};
+const Configs = {
+  packageName: 'lean-practice'
+};
 
 export default Configs;
